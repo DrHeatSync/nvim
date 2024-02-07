@@ -54,4 +54,6 @@ return require('packer').startup(function(use)
   use('folke/neodev.nvim')
   use('theHamsta/nvim-dap-virtual-text')
   use('mfussenegger/nvim-dap-python')
+
+  use('numToStr/Comment.nvim')
 end)
