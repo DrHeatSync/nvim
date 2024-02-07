@@ -1,4 +1,1 @@
 require("heatsonk")
-print("hello")
-
-
